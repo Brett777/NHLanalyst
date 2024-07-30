@@ -1,0 +1,11 @@
+pandas==2.0.2
+requests==2.31.0
+streamlit>=1.35.0
+plotly
+scikit-learn
+xgboost
+openai
+snowflake-sqlalchemy==1.5.1
+snowflake-connector-python
+sqlalchemy==1.4.49
+statsmodels
