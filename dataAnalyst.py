@@ -16,7 +16,7 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.width', 1000)
 
 # Set to True to use OpenAI endpoints directly. False to use DataRobot endpoints.
-openAImode = False
+openAImode = True
 
 # Snowflake connection details
 user = st.secrets.snowflake_credentials.user
